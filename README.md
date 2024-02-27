@@ -1,4 +1,5 @@
-
+<body>
+    
     <h1>Java Application Documentation</h1>
     
     <h2>EntierNaturel Class</h2>
@@ -32,3 +33,5 @@
         <li><code>transfer(BankAccount recipient, double amount)</code>: Transfers money to another account. Throws <code>FondsInsuffisantsException</code> if there are insufficient funds and <code>CompteInexistantException</code> if the recipient account does not exist.</li>
     </ul>
     <hr>
+
+</body>
