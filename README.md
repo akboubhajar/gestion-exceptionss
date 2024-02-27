@@ -1,6 +1,5 @@
-<body>
+
     <h1>Java Application Documentation</h1>
-    
     <h2>EntierNaturel Class</h2>
     <p>
         This class represents a natural number (positive or zero) in Java. It includes functionality to handle natural numbers and a custom exception, <code>NombreNegatifException</code>.
@@ -28,4 +27,4 @@
         <li><code>getBalance(): double</code>: Retrieves the current balance of the account.</li>
         <li><code>transfer(BankAccount recipient, double amount)</code>: Transfers money to another account. Throws <code>FondsInsuffisantsException</code> if there are insufficient funds and <code>CompteInexistantException</code> if the recipient account does not exist.</li>
     </ul>
-</body>
+
