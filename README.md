@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Java Application Documentation</title>
-</head>
+
+    <h2>Java Application Documentation</h2>
 <body>
     <h1>Java Application Documentation</h1>
     <h2>EntierNaturel Class</h2>
